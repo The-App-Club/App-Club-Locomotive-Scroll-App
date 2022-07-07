@@ -1,0 +1,8 @@
+node_modules
+.gitignore
+.prettierignore
+*ico
+*lock
+*webp
+*mp4
+*svg
